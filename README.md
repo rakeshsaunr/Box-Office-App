@@ -4,7 +4,7 @@ A React application that allows users to search for movies and TV shows, view de
 
 ## Overview
 
-![Box Office App Screenshot](assets/screenshot.png)
+![Box Office App Screenshot](image.png)
 
 ## Features
 
